@@ -8,8 +8,8 @@
 
 ## 🔗 Links do Portfólio
 
-*   **Website Técnico (Landing Page):** [https://juniobiel.github.io/arquitetura-eletronica-projeto/](https://juniobiel.github.io/arquitetura-eletronica-projeto/)
-*   **Dashboard Web IoT (Tempo Real):** [https://juniobiel.github.io/arquitetura-eletronica-projeto/dashboard/](https://juniobiel.github.io/arquitetura-eletronica-projeto/dashboard/)
+*   **Website Técnico (Landing Page):** [https://arquitetura-eletronica-projeto.vercel.app/](https://arquitetura-eletronica-projeto.vercel.app/)
+*   **Dashboard Web IoT (Tempo Real):** [https://arquitetura-eletronica-projeto.vercel.app/dashboard/index.html](https://arquitetura-eletronica-projeto.vercel.app/dashboard/index.html)
 
 ---
 
@@ -292,8 +292,6 @@ O Dashboard é uma aplicação web autônoma (Single Page Application) responsiv
 7.  Abra o **Serial Monitor** configurado em **115200 baud** para acompanhar o estado do sistema, a conexão à rede WiFi e o recebimento das credenciais MQTT.
 
 ### Executando o Dashboard IoT
-*   **Hospedagem no GitHub Pages:** Acesse diretamente o link de produção:
-    [https://juniobiel.github.io/arquitetura-eletronica-projeto/dashboard/](https://juniobiel.github.io/arquitetura-eletronica-projeto/dashboard/)
 *   **Execução Local:**
     Basta abrir o arquivo `dashboard/index.html` em qualquer navegador web moderno. Caso queira rodar localmente com conexão real ao hardware, garanta que o navegador tem permissão para conexão WebSocket externa segura (WSS). Caso contrário, ele rodará em **Modo Simulação** interativa demonstrando todo o funcionamento do PID na tela!
 
