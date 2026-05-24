@@ -15,11 +15,11 @@
 
 ## 👥 Equipe de Desenvolvimento
 
-*   **Fabricio Evangelista dos Santos** — RA 202318390
-*   **Gabriel Junio Fernandes Pereira** — RA 202325640
-*   **Lucas Kenzo Terazzin Ida** — RA 202306868
-*   **Murilo Nogueira Minutti** — RA 202303873
-*   **Pedro Henrique Almeida Lopes** — RA 202309011
+*   **Fabricio Evangelista**
+*   **Gabriel Junio**
+*   **Lucas Ida**
+*   **Murilo Minutti**
+*   **Pedro Henrique**
 
 ---
 
